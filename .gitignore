@@ -3,6 +3,8 @@
 # compiled output
 dist
 
+.turbo
+
 # dependencies
 node_modules
 
